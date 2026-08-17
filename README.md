@@ -98,8 +98,4 @@ The MIT licence applies to all original content in this repository (pattern name
 - **tetumemo** — for the inspiration of bundling Japanese copywriting hooks into a single agent skill (Manus Agent Skills).
 - **大橋一慶 / 株式会社みんなのコピー** — for the long-running Japanese sales copywriting framework that informs much of the field.
 
-If either party prefers a different acknowledgement style, or removal, please open an issue or contact the author.
-
-## Author
-
-岡崎至晋 / Yoshiaki Okazaki — OZ8 Inc.
+If either party prefers a different acknowledgement style, or removal, please open an issue.
